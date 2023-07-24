@@ -4,4 +4,5 @@ Personal Expenses is an iOS and Android app built with Flutter that connects wit
 
 App UI:
 
-<img width="409" alt="Screenshot 2023-06-22 at 11 33 42 AM" src="https://github.com/Bill-Merickel/PersonalExpensesApp/assets/20192754/3c427e0b-8b4f-4ad1-8493-38b568f9d469">
+<img width="399" alt="Screenshot 2023-07-23 at 8 41 48 PM" src="https://github.com/Bill-Merickel/PersonalExpensesApp/assets/20192754/83ed8e1d-0078-4bf3-a8bd-5d38f941bfc8">
+
